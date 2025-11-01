@@ -163,6 +163,16 @@ The project is structured in a modularized manner, focusing on building and runn
     ```
 
 
+## Demo Screenshots
+
+Here's a demonstration of the chatbot in action:
+
+![Demo: Travel Chatbot Question](docs/screenshots/demo1.png)
+*The chatbot asking clarifying questions about travel plans*
+
+![Demo: Travel Chatbot Response](docs/screenshots/demo2.png)
+*The chatbot providing detailed travel guidance*
+
 ## Troubleshooting
 1. Try and use a headset microphone
 2. Record in a quiet room 
